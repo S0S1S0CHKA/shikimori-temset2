@@ -9,7 +9,7 @@
 3. В поле **"Стили сайта"** вставьте следующий код:
 
 ```css
-@import url('https://raw.githubusercontent.com/S0S1S0CHKA/shikimori-temset2/main/styleV2.css');
+@import url('https://raw.githubusercontent.com/S0S1S0CHKA/shikimori-temset2/main/styleV3.css');
 
 :root {
   /* Здесь вы можете переопределить основной цвет, если стандартный фиолетовый не подходит */
